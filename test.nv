@@ -1,0 +1,10 @@
+// test.nova
+func main() {
+    let x = 10;
+    let y = 20;
+    print("Sum:", x + y);
+    
+    if (x > 5) {
+        print("x is greater than 5");
+    }
+}
